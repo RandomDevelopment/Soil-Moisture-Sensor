@@ -45,3 +45,10 @@ Your contributions to this project are welcome! Feel free to report issues, sugg
 ## License
 
 This project is released into the public domain under The Unlicense. For full details, see the [LICENSE](LICENSE) file.
+
+
+## Disclaimer
+
+The source code and documentation for this project were developed with the assistance of ChatGPT.
+
+
